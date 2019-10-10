@@ -1,0 +1,14 @@
+.main-page{
+  display:flex;
+ justify-content:center;
+  align-items:center;
+  flex-direction:column
+}
+
+.search-bar input{
+  border:2px solid #ddd;
+  padding:12px 10px;
+  outline:none;
+  min-width:450px;
+  background-color:aliceblue
+}
